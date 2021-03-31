@@ -1,0 +1,76 @@
+The dataOps are :
+1) K2View Data Fabric
+
+K2View provides an operational data fabric dedicated to making every customer experience personalized and profitable.
+The K2View platform continually ingests all customer data from all systems, enriches it with real-time insights, and transforms it into a patented Micro-Database™ 
+- one for every customer. To maximize performance, scale, and security, every micro-DB is compressed and individually encrypted. It is then delivered in milliseconds to fuel 
+quick, effective, and pleasing customer interactions. Global 2000 companies – including AT&T, Vodafone, Sky, and Hertz 
+– deploy K2View in weeks to deliver outstanding multi-channel customer service, minimize churn, achieve hyper-segmentation, and assure data compliance.
+
+2)Lentiq:
+
+Lentiq is a collaborative data lake as a service environment that’s built to enable small teams to do big things.
+Quickly run data science, machine learning and data analysis at scale in the cloud of your choice. With Lentiq, your teams can ingest data in real time and then process,
+clean and share it. From there, Lentiq makes it possible to build, train and share models internally. Simply put, 
+data teams can collaborate with Lentiq and innovate with no restrictions. Data lakes are storage and processing environments, which provide ML, ETL, 
+schema-on-read querying capabilities and so much more. Are you working on some data science magic? You definitely need a data lake. In the Post-Hadoop era, the big,
+centralized data lake is a thing of the past. With Lentiq, 
+we use data pools, which are multi-cloud, interconnected mini-data lakes. They work together to give you a stable, secure and fast data science environment.
+
+3)Naveego:
+Naveego is a software company and offers a software title called Naveego. Naveego offers a free version. Naveego is business intelligence software,
+and includes features such as dashboard, data analysis, and predictive analytics. With regards to system requirements, Naveego is available as SaaS software. 
+Costs start at $99.00/month. 
+Some alternative products to Naveego include A7 IoB, AFS G2 Analytics, and SAP Analytics Cloud.
+
+Naveego is a cloud data integration platform that allows businesses to reach accurate business decisions by integrating all company data in a regular business-centric format.
+This tool cleans stored data and makes it analytics-ready for data scientists. 
+With Naveego, you can conveniently monitor and validate all your company’s stored data with security.
+
+4)Piperr:
+
+Saturam is a software business formed in 2014 in the United States that publishes a software suite called Piperr. Piperr includes training via documentation, live online, 
+and in person sessions. The Piperr product is SaaS software. Piperr includes online, and business hours support. Piperr is data management software, and includes features
+such as customer data, data analysis, data capture, data integration, data migration, data quality control, data security, information governance, master data management, 
+and match & merge. Alternative competitor software options to Piperr include Analance, Delphix, and Talend Data Fabric.
+
+Piper is a package of Machine Learning based DataOps tools that enable organizations to read data more smoothly and efficiently. 
+This solution exposes data through a set of APIs which integrate easily with digital assets of the organization. Furthermore, it merges batch and real-time to offer the best of 
+data technologies along with detailed support. With a focus on AI, Pipper allows companies to minimize turnaround time of data operations and manages a complete software
+development lifecycle through its prepackaged data apps.
+
+5)Badook:
+
+badook AI
+badook allows data scientists to write automated tests for data used in training and testing AI models (and much more). Validate data automatically and over time.
+Reduce time to insights. Free data scientists to do more meaningful work.
+
+6)DataKitchen:
+
+Reclaim control of your data pipelines and deliver value instantly, without errors. The DataKitchen™ DataOps platform automates and coordinates all the people, tools, 
+and environments in your entire data analytics organization – everything from orchestration, testing, and monitoring to development and deployment. You’ve already got 
+the tools you need. Our platform automatically orchestrates your end-to-end multi-tool, multi-environment pipelines – from data access to value delivery. Catch embarrassing 
+and costly errors before they reach the end-user by adding any number of automated tests at every node in your development and production pipelines. Spin-up repeatable work 
+environments in minutes to enable teams to make changes and experiment – without breaking production. Fearlessly deploy new features into production with the push of a button. 
+Free your teams from tedious, manual work that impedes innovation.
+One of the most popular DataOps tools, DataKitchen is best for automating and coordinating people, environments, and tools in data analytics of the entire organization.
+DataKitchen handles it all – from testing to orchestration, to development, and deployment. Using this platform, your organization can achieve virtually zero errors and deploy 
+new features faster than your business. DataKitchen lets organizations spin up repetitive work environments in a matter of minutes so teams can experiment without breaking
+production cycles. The Quality pipeline of DataKitchen is based on three core sections; data, production, and value. It is essential to understand that with this tool,
+you can access pipeline with Python Code, transform it via SQL coding, design model in R, visualize in Workbook, and gain reports in form of Tableau.
+
+7)Genie:
+
+Developed by Netflix, the DataOps tool is an open-source engine that offers distributed job orchestration services. This tool provides RESTful APIs for developers who wish to
+run a wide range of jobs with Big Data, such as Hive, Hadoop, Presto, and Spark. Genie also provides APIs for metadata management in distributed processing clusters.
+
+8)FirstEigen:
+
+FirstEigen is a platform including Machine Learning tools that provide big data quality validation and data matching on the basis of self-learning.
+This platform learns about data quality behaviors and models using advanced ML techniques and then tests big data with just three clicks. With FirstEigen, organizations can
+ensure accuracy, completeness, and sanctity of their data as it moves via multiple IT platforms.
+
+
+
+
+
