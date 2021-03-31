@@ -1,0 +1,74 @@
+There some of the most copanies befor we start:
+1-Git in planning used by Netflix-intel-asena lyft.
+2-Selenium in testing used by Google-Hubspot-fidelity.
+3- jenkins in integration is used by Dell-linkedin -cloudera ebay.
+4-Docker in deploy is used by Paypal-spotify-Quora-BBc world news.
+5-In operation:-Ansible used by NASA-Twitter-Cisco-verizon sports.
+               -Cef is used by Face Book-IBM-Microsoft standard Bank.
+               -Puppet is used by hp-McAFee -redhat-Google-Cisco.
+6-In mointer :-Splunk is used by Cisco-Facebook-IBM-Domino's pizza.
+              -Nogios is used by User-Webedea-hike-Drop box.
+
+This some other companies with expanded explanation:
+
+1)Amazon:
+Amazon has a reputation for impressive DevOps. The transition to DevOps was a part of the company’s 2010 move from physical servers to the Amazon Web Services (AWS) cloud,
+a change that allowed them to save resources by scaling capacity up and down in single-serve increments.
+
+Amazon also began using a continuous deployment process managed by an internal system called Apollo, which gives developers the ability to deploy code whenever they want to
+whatever servers they need.
+
+By May 2011, Amazon was deploying new software to production servers an average of every 11.6 seconds. In the busiest hour, 1,079 new deployments were sent into the production 
+environment.
+
+DevOps is designed to increase the frequency of deployment, but the most successful companies know that quality and risk management are as important as speed.
+Amazon’s implementation of a new load balancer ensured that only one out of every 100,000 deployments resulted in an outage on the Amazon website. According to John Jenkins,
+a former lead engineer at Amazon, the transition to agile DevOps is saving millions.
+
+2)Netflix:
+Over 100 million users turn to Netflix for a quality streaming experience. Maintaining its place as an industry leader without causing any glitches for their customers requires
+speed, flexibility, and attention to quality.
+
+Netflix operates a cloud-based infrastructure comprised of hundreds of microservices. Developers can automatically build pieces of code into deployable web images without
+relying on IT operations. As the images are updated, they are integrated into Netflix’s infrastructure using a custom-built, web-based platform. Automated monitoring is in
+place so that if the deployment of the images fails, the new images are rolled back and traffic is rerouted to the old version.
+
+Netflix’s DevOps success has not gone unnoticed. In 2015 when the company was unanimously chosen for the JAX Special Jury Award, JAXenter editor Coman Hamilton said, 
+"The rate at which this entertainment game-changer has adopted new technologies and implemented them into its DevOps approach is setting new standards in IT."
+
+3)Etsy:
+In its early years, Etsy struggled with slow, painful deployments. The company had a lot of siloes and teams that weren’t working together well. Although Etsy’s twice-a-week
+deployments were actually more frequent than most of the industry at the time, they felt they could be faster.
+
+Etsy began letting developers deploy their own code around the end of 2009. According to former VP of Technical Operations Michael Rembetsy, in a 2015 Network World interview,
+they realized that when developers feel responsibility for deployment, they also would take responsibility for application performance, uptime, and other goals.  
+
+Etsy now deploys over 60 times per day. Rembetsy says that a learning culture is a key part of DevOps at Etsy—even a failure can be a success if lessons are learned.
+
+4)Target:
+DevOps isn’t just about the technology or processes. For successful DevOps, you also need to bring your teams on board with the DevOps culture and philosophies. This is an area
+where Target excels.
+
+DevOps at Target started as a grassroots movement on certain teams. These teams were seeing such great success that many others were easy to jump on the DevOps bandwagon.
+However, other employees were more skeptical about changing their ways.
+
+According to CIO Mike McNamara, an essential part of Target’s DevOps strategy was the creation of an immersive, six-week session called the “Dojo,” where teams do their
+usual work alongside agile coaches who support them as they engage with DevOps. This has helped overcome resistance to the transition without losing productivity.
+
+5)NASA:
+You don’t have to be a rocket scientist to do DevOps, but DevOps did help real NASA scientists analyze data from the Mars Rover Curiosity.
+
+NASA’s Jet Propulsion Laboratory wanted real-time analytics on millions of telemetry data points being received from Curiosity daily. Building portable containerized
+data systems and tools for continuous deployment allows systems engineers and data scientists to quickly develop, analyze, and share their visualizations and algorithms. 
+Data can be stored and processed using AWS services and scalable APIs.
+
+6)Hertz:
+DevOps is a new trend, often associated with startups or 21st century tech giants. These newer companies aren’t dealing with as much cumbersome legacy IT infrastructure as
+businesses that have been around longer might. But the oldest company on this list of DevOps success stories has existed for a century.
+
+In recent decades, Hertz didn’t focus much on technology, but when Hertz VP of Global IT Architecture John LaFreniere arrived at the company in 2015 he made it a mission to
+introduce DevOps practices across the enterprise. The first step was moving to a cloud-based model to resist dependence on Hertz’s existing datacenters.
+
+LaFreniere’s advice for organizations making a similar transition is twofold: don’t expect the cloud to be magic—it takes resources, planning, and education—and don’t get
+stuck in a hybrid state of cloud and on premise with no end in sight.
+
